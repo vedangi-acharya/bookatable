@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body{background:#431216;color:#c79b5e;margin:0;padding:0;width:100%;}
+#wrapper{width:960px;margin:0 auto;display:block;}
+.headerwrapper{width:940px;padding:10px;display:block;float:left;}
+.header{float:left;font-size:20px;font-family:cursive;padding:0;width:100%;display:block;}
+.header h1{float:left;display:block;}
+.headnav{float:right;background-color:#000000;border-radius:20px;margin-top:35px;}
+.headnav ul{margin:0;padding:0;}
+.headnav ul li{float:left;list-style:none;}
+.headnav ul li a{float:left;text-decoration:none;padding:10px;color:#999999;}
+.headnav ul li a:hover{color:#FFFFFF;background:#c79b5e;border-radius:20px;}
+.navigator{float:left;width:100%;background-color:#000;border-radius:10px;font-family:cursive;display:block;}
+.navigator ul{margin:0;padding:0;padding:0 10px;}
+.navigator ul li{float:left;list-style:none;border-right:#333333 solid 1px;}
+.navigator ul li a{float:left;text-decoration:none;padding:10px 16px;color:#c79b56;font-size:18px;}
+.navigator ul li a:hover{background-color:#FFFFFF;border-radius:10px;}
+.border{border-right:none!important;}
+.banner{float:left;margin-top:20px;border:#000000 solid 10px;}
+.banner img{float:left;}
+.content{float:left;width:330px;padding-left:40px;}
+.content h2{float:left;font-size:30px;margin-bottom:10px;}
+.content p{float:left;margin-top:10px;width:300px;}
+.footer{float:left;margin-top:5px;}
+.footer span{float:left;font-size:17px;}
+.footer span a{color:#8CFFFF;}
+.footer span a:hover{color:#FFFFFF;}
+.logbanner{float:left;display:block;width:600px;margin:20px;border-radius:15px;}
+.logbanner img {float:left;border:#000000 solid 10px;display:block;border-radius:15px;}
+.logbanner img a{display:block;}
+.logbanner img:hover{border:#FF9900 solid 10px;}
+.login{float:left;width:205px;margin-top:20px;padding:0 30px;margin-left:15px;background:#b3a0a1;border-radius:10px;border:#000 solid 5px;}
+.login img{float:left;}
+.login span{float:left;font-size:20px;width:100%;color:#000;margin-top:9px;}
+.login input[type="text"]{width:200px;border:#000000 solid 2px;border-radius:5px;padding:8px 0;float:left;clear:right;}
+.login label{float:left;color:#CC3366;display:block;margin-top:20px;}
+.login label a{float:left;margin-top:5px;color:#fff;background:#000;padding:15px;border-radius:15px;text-decoration:none;margin-bottom:15px;font-weight:bold;}
+.login label a:hover{color:#009900;background:#350035;}
+.margintop{margin-top:20px;}
+.bannerpic{float:left;width:620px;padding:5px;}
+.bannerpic img {float:left; height: 350px;width: 590px;border-radius:20px;border:#000000 solid 12px; margin-top:20px;float:left;}
+.bannerpic img:hover {border:#FFFFFF solid 12px;}
+.bannerpic p{float:left;width:100%;font-size:20px;}
+
+
